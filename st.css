@@ -1,0 +1,28 @@
+div{
+    padding-bottom: 50px;
+}
+
+.style{
+    background-color: gainsboro;
+}
+
+h2{
+    color:blue;
+    
+}
+ h3{
+    padding-top: 30px;
+ }
+.btn-success{
+    border-radius: 10px;
+    /* padding-left: 10px;
+    padding-right: 10px; */
+}
+
+.top{
+    background-color: aqua;
+}
+
+input{
+    border-radius: 10px;
+}
